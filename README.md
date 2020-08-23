@@ -2,6 +2,8 @@
 
 A web page to select the origin and destination location for requesting a taxi.
 
+[![Leaflet Example](screen.jpg)](https://basemax.github.io/LeafletExample/)
+
 ---------
 
 # Max Base
