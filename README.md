@@ -1,6 +1,6 @@
 # Leaflet Example
 
-A web page to select the origin and destination location for requesting a taxi.
+A web page to select the origin and destination location in the Map using Leaflet library.
 
 [![Leaflet Example](screen.jpg)](https://basemax.github.io/LeafletExample/)
 
