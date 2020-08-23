@@ -4,6 +4,14 @@ A web page to select the origin and destination location in the Map using Leafle
 
 [![Leaflet Example](screen.jpg)](https://basemax.github.io/LeafletExample/)
 
+### Leaflet
+
+Leaflet is a widely used open source JavaScript library used to build web mapping applications. First released in 2011, it supports most mobile and desktop platforms, supporting HTML5 and CSS3.
+
+https://leafletjs.com/
+
+https://leafletjs.com/examples.html
+
 ### Related Repositories
 
 - https://github.com/BaseMax/TaxiBookingMap
