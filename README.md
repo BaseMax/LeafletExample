@@ -2,6 +2,8 @@
 
 A web page to select the origin and destination location in the Map using Leaflet library.
 
+Watch the demo: https://basemax.github.io/LeafletExample
+
 [![Leaflet Example](screen.jpg)](https://basemax.github.io/LeafletExample/)
 
 ### Leaflet
